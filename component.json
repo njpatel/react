@@ -1,0 +1,16 @@
+{
+  "name": "react",
+  "repo": "njpatel/react",
+  "description": "A javascript library for building user-interfaces. http://facebook.github.io/react",
+  "version": "0.9.0",
+  "keywords": [
+    "react",
+    "react.js",
+    "facebook",
+    "jsx"
+  ],
+  "license": "Apache",
+  "scripts": [
+    "react.js"
+  ]
+}
