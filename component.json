@@ -10,6 +10,7 @@
     "jsx"
   ],
   "license": "Apache",
+  "main": "react.js",
   "scripts": [
     "react.js"
   ]
